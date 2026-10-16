@@ -5,6 +5,8 @@ teste
 *.so
 *.out
 build/
+.vscode/
+.idea/
 
 # Arquivos temporários do Python
 __pycache__/
