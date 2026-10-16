@@ -1,0 +1,14 @@
+# Executáveis e arquivos de compilação
+main
+teste
+*.o
+*.so
+*.out
+build/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Baterias locais que dependem da estrutura do workspace
+testes/
